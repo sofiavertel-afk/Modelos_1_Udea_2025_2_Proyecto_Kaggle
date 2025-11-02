@@ -9,7 +9,7 @@
 - Sofía: sofiavertel  
 
 ## Video de la Entrega 2
-🎥 
+🎥 https://www.youtube.com/watch?v=b05vdmtsV2k
 
 ## Contenido
 - `01_exploración.ipynb`: Exploración inicial de los datos  
